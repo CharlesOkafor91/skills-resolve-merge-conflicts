@@ -1,12 +1,11 @@
-# GitHub Teacher
+# GitHub Tech Support
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Jobs
 
-### GitHub Trainer
+### GitHub S and R Support
 
-Teach all things Git, give away all the stickers, ensure world peace.
+Sopport with security and revenue requests
 
 ### Supportocat
 
